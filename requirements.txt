@@ -1,0 +1,10 @@
+ipykernel
+IProgress
+tqdm
+ollama
+langchain
+langgraph
+rich
+python-dotenv
+langchain-community
+langchain-tavily
