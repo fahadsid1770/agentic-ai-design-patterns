@@ -3,8 +3,13 @@ IProgress
 tqdm
 ollama
 langchain
+langchain
+langchain-community
+langchain-huggingface
+langchain-nomic
+langchain-ollama
+langchainhub
 langgraph
 rich
 python-dotenv
-langchain-community
 langchain-tavily
