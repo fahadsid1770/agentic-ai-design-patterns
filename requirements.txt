@@ -13,3 +13,4 @@ langgraph
 rich
 python-dotenv
 langchain-tavily
+litellm
